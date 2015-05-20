@@ -1,4 +1,6 @@
-venus ia another planet. Lorem ipsum dolorsit amet.
+Venus ia another planet. Lorem ipsum dolorsit amet.
+
+This is a conflicting change
 
 Venus is the 2nd plant
 Venus has the atmosphere
